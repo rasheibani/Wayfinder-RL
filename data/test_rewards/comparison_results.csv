@@ -1,0 +1,3 @@
+model_type,success_rate,success_count,avg_steps,total_tests
+with_distance,0.0,0,0,72
+without_distance,0.0,0,0,72
